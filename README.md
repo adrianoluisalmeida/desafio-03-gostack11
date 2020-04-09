@@ -3,9 +3,23 @@ Neste desafio foi solicitada a criação de uma aplicação para aplicar os conc
 
 ### Tecnologias utilizadas
 
+- [ReactJS](https://pt-br.reactjs.org/)
 - [Jest](https://www.npmjs.com/package/jest)
 - [Supertest](https://www.npmjs.com/package/supertest)
 
+
+### Executando aplicação Frontend
+
+```js
+yarn
+yarn start
+```
+
+**Para executar os testes:**
+
+```js
+yarn test
+```
 
 ### Backend da aplicação
 
